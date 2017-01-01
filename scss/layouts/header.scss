@@ -6,9 +6,9 @@
 			position: relative; 
 			.navbar-brand-logo-box {
 				background: url(../images/rimowa-logo.png) no-repeat center center;
-				display: block;
+				display: block; 
 				width: 119px;
-				height: 50px;
+				height: 50px; 
 				background-size: 80%;
 			}
 
@@ -25,8 +25,9 @@
 		span {
 			//margin-top: 5px;
 			//margin-bottom: 10px;
-			font-size: 16px;
+			font-size: 14px;
 			vertical-align: middle;		
+			margin-left: 5px;
 		}
 	}
 }

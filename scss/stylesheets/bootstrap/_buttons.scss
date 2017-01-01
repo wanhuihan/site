@@ -23,7 +23,7 @@
   &,
   &:active,
   &.active {
-    &:focus,
+    &:focus,f
     &.focus {
       @include tab-focus;
     }
@@ -132,7 +132,7 @@
   // line-height: ensure proper height of button next to small input
   @include button-size($padding-small-vertical, $padding-small-horizontal, $font-size-small, $line-height-small, $border-radius-small);
 }
-.btn-xs {
+.btn-xs { 
   @include button-size($padding-xs-vertical, $padding-xs-horizontal, $font-size-small, $line-height-small, $border-radius-small);
 }
 

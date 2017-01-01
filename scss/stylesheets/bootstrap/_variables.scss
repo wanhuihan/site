@@ -88,7 +88,7 @@ $headings-color:          inherit !default;
 $icon-font-path: if($bootstrap-sass-asset-helper, "bootstrap/", "../fonts/") !default; 
 
 //** File name for all font files.
-$icon-font-name:          "fontawesome-webfont" !default;
+$icon-font-name:          "fontawesome-webfont" !default; 
 //** Element ID within SVG icon file. 
 $icon-font-svg-id:        "fontawesome-webfont" !default; 
 

@@ -23,3 +23,17 @@
 
 	}
 }
+.breadcrumb {
+	li {
+		&:last-child {
+			font-family: 'century gothic';
+		}
+		&:before {
+			font-family: '黑体';
+		}
+	}
+}
+
+.btn {
+	//border-radius: 0;
+}
