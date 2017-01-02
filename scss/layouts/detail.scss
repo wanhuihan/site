@@ -1,9 +1,9 @@
 .detail {
 	.detail-cont {	
 		.pro-name {
-			margin: 0;
+			margin: 0; 
 			font-size: 18px;
-			font-family: 'century gothic';
+			// font-family: 'century gothic';
 		}
 		.price {
 			p {
@@ -119,6 +119,9 @@
 				height: 300px;
 				overflow: hidden;
 				overflow-y: auto;
+				p {
+					text-indent: 10px;
+				}
 			}
 		}
 	}

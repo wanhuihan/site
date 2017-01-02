@@ -1,15 +1,14 @@
-@import 'layouts/header'; 
+@import './layouts/global';
 
-@import 'layouts/footer';
+@import './layouts/header'; 
 
-@import 'layouts/list';
+@import './layouts/footer';
 
-@import 'layouts/sidebar';
+@import './layouts/list';
 
-@import 'layouts/detail';
+@import './layouts/sidebar'; 
 
-@import 'global';  
+@import './layouts/detail';
  
-//@import 'stylesheets/_bootstrap';
+@import './layouts/home'; 
 
-@import 'layouts/home';
